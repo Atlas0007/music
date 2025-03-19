@@ -1,5 +1,5 @@
 body {
-    background-image: url('/pics/Castlevania.jpg'); /* Set the background */
+    background-image: url('/Castlevania.jpg'); /* Set the background */
     background-size: cover; /* Cover the whole screen */
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Prevent scrolling */

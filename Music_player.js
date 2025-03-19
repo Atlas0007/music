@@ -9,11 +9,11 @@ const lyricsContainer = document.getElementById("lyrics");
 // Song list
 const songs = [
     
-    { title: "Im Your Angel", src: "/songs/I'm_Your_Angel(256k).mp3" },
-    { title: "If VivaLaVida was sad", src: "/songs/If_Viva_La_Vida_was_sad..._HENRY_MOODIE_X_LORYN_HANSEN_X_JOHN_DAVIS_MASON(256k).mp3" },
-    { title: "Imagine Dragons Dream", src: "/songs/Imagine Dragons - Dream (Lyrics).mp3" },
-    { title: "It Will Rain  Bruno Mars", src: "/songs/It Will Rain - Bruno Mars (Lyrics).mp3" },
-    { title: "James Arthur  Naked", src: "/songs/James Arthur - Naked.mp3" } ];
+    { title: "Im Your Angel", src: "/I'm_Your_Angel(256k).mp3" },
+    { title: "If VivaLaVida was_sad", src: "/If_Viva_La_Vida_was_sad..._HENRY_MOODIE_X_LORYN_HANSEN_X_JOHN_DAVIS_MASON(256k).mp3" },
+    { title: "Imagine Dragons - Dream", src: "/Imagine Dragons - Dream (Lyrics).mp3" },
+    { title: "It Will Rain - Bruno Mars", src: "/It Will Rain - Bruno Mars (Lyrics).mp3" },
+    { title: "James Arthur - Naked", src: "/James Arthur - Naked.mp3" } ];
 
     let songIndex = 0;
     //Load Song
