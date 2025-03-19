@@ -1,0 +1,41 @@
+body {
+    background-image: url('/pics/Castlevania.jpg'); /* Set the background */
+    background-size: cover; /* Cover the whole screen */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Prevent scrolling */
+    color: white; /* Make text readable */
+    font-family: Arial, sans-serif;
+}
+
+
+
+
+.player {
+    background: rgba(0, 0, 0, 0.7); /* Dark overlay for readability */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+
+.controls button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.controls button:hover {
+    color: #b98f1d;
+}
+
+#song-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
